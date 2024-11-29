@@ -1,0 +1,6 @@
+For the current project i downloaded it in yolo8 format, and then converted into class representation.
+
+Instead if you are starting the project from scratch, download it in the csv format itself and skip the first cell in the model1.ipynb( it is used to convert from yolo format to the multi class format)
+
+
+https://universe.roboflow.com/hof-university-of-applied-science/plantsdetector/dataset/2
